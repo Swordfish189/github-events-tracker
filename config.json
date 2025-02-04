@@ -1,0 +1,10 @@
+{
+  "repositories": [
+    "torvalds/linux",
+    "psf/requests",
+    "psf/black",
+    "pallets/flask",
+    "python/typing",
+    "python/mypy"
+  ]
+}
