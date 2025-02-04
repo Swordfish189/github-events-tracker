@@ -24,7 +24,7 @@ This application tracks events from up to a given number of GitHub repositories 
 
 ### Prerequisites
 
-- Python 3.8 or higher
+- Python 3.11 or higher
 - `pip` (Python package installer)
 
 ### Installation
